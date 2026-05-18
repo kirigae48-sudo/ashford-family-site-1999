@@ -4,6 +4,7 @@ import { Crown, Shield, Lock, Trash2, AlertTriangle } from "lucide-react";
 const STORAGE_KEY = "ashford_apps_v1";
 const ADMIN_CODE = "ashford-admin";
 const DISCORD_INVITE = "https://discord.gg/UPaKFEXvpD";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1505925663541039224/eUb_HDm7XdHXRlfynj0uHSvxNOz3AEi-N_pJZNfbQscjoE0yH43xP-CYG4pba_i_EqxP";
 
 const emptyForm = {
   name: "",
